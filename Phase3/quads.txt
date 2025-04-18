@@ -1,0 +1,30 @@
+quad#	opcode  		result		arg1		arg2		label
+--------------------------------------------------------------------------------------
+1:		if_greater      			x			y			3
+2:		jump            									5
+3:		assign          _t0			'true'						0
+4:		jump            									6
+5:		assign          _t0			'false'						0
+6:		if_eq           			_t0			'true'			8
+7:		jump            									27
+8:		assign          a			1						0
+9:		assign          _t1			a						0
+10:		assign          _t0			a						0
+11:		add             a			a			1			0
+12:		if_lesseq       			a			1			17
+13:		jump            									14
+14:		add             _t0			k			1			0
+15:		if_eq           			_t0			0			17
+16:		jump            									19
+17:		assign          _t1			'true'						0
+18:		jump            									20
+19:		assign          _t1			'false'						0
+20:		if_eq           			_t1			'true'			22
+21:		jump            									25
+22:		assign          b			5						0
+23:		assign          _t2			b						0
+24:		jump            									27
+25:		assign          b			3						0
+26:		assign          _t0			b						0
+--------------------------------------------------------------------------------------
+

@@ -1,0 +1,26 @@
+/*function f() {}
+function g() {}
+
+x = f >= g;*/
+
+/*x = (function(a,b){return a+b;});*/
+
+/* x=1;
+x = 5+6*7/8;*/
+
+//x = 4+5;
+
+//x = not x;
+//x = 6 / 9;
+//y = 5 + 1;
+//z = x=5 + y="vs";
+
+if (x>y) {
+   a = 1;
+   a++;
+   if ((a <= 1) or (k+1 == 0)) {
+      b = 5;
+   } else {
+      b=3;
+   }
+}

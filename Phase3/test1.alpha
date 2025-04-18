@@ -1,0 +1,178 @@
+/*for (k=0; k<45; k++) {
+   
+}
+
+j = 8;
+x = 5;
+
+
+for (k=0; k<45; k++) {
+    function hello() {}
+    x = "string";
+}*/
+
+/*function nice(g,p,s,d,f) { return 5; } 
+nice(4,5,7,8,9);
+
+for (i=0; i<=89; i++) {}*/
+/*x = 1;
+x = --a>=25 and b==2; //see this example again for the temporary variables*/
+
+//g = x<5 and 78.25>=25;
+
+/*for (k = 25; k>= 78 and k==8; k++) {
+        
+}*/
+
+//t = [{"x":0}, {"y":a+b}, {-1:0} ];
+
+//y = nil;
+
+/*x=10;
+x=x+2;
+for(x=10; x<30; x=x+1){
+            fty=45;
+            for(poh=10; poh<30; poh=poh+1){
+                jk=13*4;
+                function trep(){
+                    h=102;
+                    hg= h+10;
+                }
+            
+            }
+        break;
+}
+    x=8*x;  να ξαναω το quad 34 με mul που στο result βγαζει αριθμο*/
+
+/*x=10;
+while(x>1){             
+    x=x-1;
+    continue;
+    function gop(){
+        break;
+        w=10;
+        continue;
+        while(w>10){
+            w=w+5;
+            continue;
+            while(w>5){
+                w=w+1;
+                break;
+                function kiopo(){
+                    pwe=10;
+                    return pwe;
+                }
+                continue;
+            }
+            break;
+        }
+        return w;
+    }
+    
+    x=24;
+}
+x=23;
+continue;
+break;*/
+
+/*function kiopo() {
+    pwe=10;
+    return nil;
+}*/
+
+//x = (a==5 and kl) or  (a<=5 or kl>89);
+
+//x = a<=5 or (kl>8 or k<5);
+//(kl>8 or k<5);
+
+/*if (a==5 and kl and a<=5 or kl>89) {
+    
+}*/
+
+//a = --t.x;
+
+//x = [{x: 5}];
+
+//f(x,y)(z,t);
+
+/*function f(x, y){
+    return (x or y) and (5 or 6);
+}*/
+
+
+/*t = [];
+t.x = y;
+k[3];*/
+
+//print("circle Area: ", Area[circle], nl);
+//print("circle Perimeter: ", Perimeter[circle], "\n\n");
+
+//p[foo()].foo;
+//t[a and b];
+
+//sprite..move(dx,dy);
+
+/*for(local i = 0; i < MAX + 1; ++i){	//insert in ST local cariable (i). scope 1, line 39
+		if (IsEven(i))
+			print(i, " is evan", nl);
+		else if (IsOdd(i))
+			print(i, " is odd", nl);
+		else {
+			exit = false;
+			break;
+		}
+	}*/
+
+/*function Stack () {
+
+    return [
+        {"class" : "Stack"},
+        {"next"  : 0},
+        {"data"  : []},
+        {"empty" : (function (self){
+            return self.next == 0;
+        })},
+        
+        {"push"     : (function (self, data){
+            self.data[self.next++] = data;
+        })},
+        
+        {"pop"     : (function (self){
+            if (self.next > 0)
+                self.data[--self.next] = nil;
+        })},
+        
+        {"top"      : (function (self){
+            return self.data[self.next-1];
+        })}
+    ];
+}*/
+
+//x = (function (x,y) { });
+
+//[{"data"  : []}];
+
+//x = f(y)(a,b);
+
+//sprite..move(dx,dy);
+
+/*function f (x, y) {
+    z = x * y;
+    if (z == 10) {
+        z = 1;
+    }
+    return z;
+}
+i = f (j, k);*/
+
+//(function(x,y) { return x + y; })(5,4);
+/*function heloo(x,l) {
+    x = 5 +6 ;
+    fucnt(4,5);
+}*/
+
+//function hello(x,y) { return x + y; };
+//hello(x,y);
+
+//a and b;
+
